@@ -473,4 +473,4 @@ async def devs(interaction: discord.Interaction) -> None:
 # endregion
 
 
-client.run('MTAxNzA1NzEyNzUwNTg3MDkzOQ.GSuQ9G.T2PTDPaLmkT8erc141E5zqxO9mFIZEiF95Ercw')
+client.run('Your Bot Token')
